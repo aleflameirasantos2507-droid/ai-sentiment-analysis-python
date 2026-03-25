@@ -44,9 +44,9 @@ Sentence: "This is terrible" → Sentiment: Negative [score: -0.60]
 
 ai-sentiment-analysis/
 │
+├── README.md
 ├── main.py
-├── requirements.txt
-└── README.md
+└── requirements.txt
 
 ## Author
 
